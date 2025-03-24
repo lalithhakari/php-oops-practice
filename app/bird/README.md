@@ -8,6 +8,6 @@ Sparrow
 Ostrich
 Penguin
 
-Penguin and Ostrich dont fly
-Crow and Sparrow fly in same way
-all can eat() and makeSound()
+Penguin and Ostrich dont fly.
+Crow and Sparrow fly in same way.
+All can eat() and makeSound().
