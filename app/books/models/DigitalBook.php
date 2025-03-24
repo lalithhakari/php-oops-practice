@@ -15,9 +15,4 @@ class DigitalBook extends Book
     {
         return $this->format;
     }
-
-    public function getTest(): string
-    {
-        return $this->test;
-    }
 }

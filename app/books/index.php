@@ -13,10 +13,9 @@ $digitalBook1 = new DigitalBook(
     year: 2021
 );
 
-echo $digitalBook1->getTest() . PHP_EOL;
-
 echo $digitalBook1->getTitle() . PHP_EOL;
 
+// Deep Copy and Shallow Copy
 $digitalBook2 = $digitalBook1;
 $digitalBook2->setTitle('The Digital Book 2');
 
