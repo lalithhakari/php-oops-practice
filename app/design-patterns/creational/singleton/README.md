@@ -1,0 +1,1 @@
+# The Singleton pattern is notorious for limiting code reuse and complicating unit testing. However, it’s still very useful in some cases. In particular, it’s handy when you need to control some shared resources. For example, a global logging object that has to control the access to a log file. Another good example: a shared runtime configuration storage.
